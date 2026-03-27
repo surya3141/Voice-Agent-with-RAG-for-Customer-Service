@@ -1,0 +1,110 @@
+[
+  {
+    "id": "faq_001",
+    "question": "What is TechPulse's return policy?",
+    "answer": "TechPulse offers a 30-day return policy on all products. Items must be returned in their original packaging and in unused condition. Refunds are processed within 5-7 business days after we receive the returned item. Please contact our support team to initiate a return.",
+    "category": "returns"
+  },
+  {
+    "id": "faq_002",
+    "question": "How long is the warranty on TechPulse products?",
+    "answer": "All TechPulse products come with a standard 1-year manufacturer warranty. Extended warranty plans of 2 or 3 years are available for purchase. The warranty covers manufacturing defects and hardware failures under normal use conditions.",
+    "category": "warranty"
+  },
+  {
+    "id": "faq_003",
+    "question": "What shipping options does TechPulse offer?",
+    "answer": "We offer three shipping options: Standard Shipping (5-7 business days, free on orders over $50), Express Shipping (2-3 business days, $9.99), and Overnight Shipping (next business day, $19.99). All orders include tracking information sent via email.",
+    "category": "shipping"
+  },
+  {
+    "id": "faq_004",
+    "question": "What payment methods does TechPulse accept?",
+    "answer": "TechPulse accepts Visa, MasterCard, American Express, Discover, PayPal, Apple Pay, Google Pay, and TechPulse gift cards. We also offer financing options through Affirm for orders over $200 with 0% APR for 6 months.",
+    "category": "payment"
+  },
+  {
+    "id": "faq_005",
+    "question": "How do I reset my TechPulse account password?",
+    "answer": "To reset your password, go to the login page and click 'Forgot Password.' Enter the email address associated with your account and you will receive a password reset link within a few minutes. The link is valid for 24 hours. If you don't receive the email, check your spam folder or contact support.",
+    "category": "account"
+  },
+  {
+    "id": "faq_006",
+    "question": "My device won't turn on. What should I do?",
+    "answer": "First, ensure the device is fully charged by connecting it to the charger for at least 30 minutes. Try a hard reset by holding the power button for 10 seconds. If the device still won't turn on, try a different charging cable and adapter. If the issue persists, contact our tech support team for further assistance.",
+    "category": "troubleshooting"
+  },
+  {
+    "id": "faq_007",
+    "question": "What are TechPulse's hours of operation?",
+    "answer": "Our customer support is available Monday through Friday from 8:00 AM to 8:00 PM EST, and Saturday from 9:00 AM to 5:00 PM EST. We are closed on Sundays and major holidays. Our online chat support is available 24/7.",
+    "category": "hours"
+  },
+  {
+    "id": "faq_008",
+    "question": "How can I contact TechPulse customer support?",
+    "answer": "You can reach us by phone at 1-800-TECHPULSE (1-800-832-4785), by email at support@techpulse.com, or through the live chat on our website. You can also visit any of our retail locations for in-person assistance. Our social media team is also available on Twitter and Facebook.",
+    "category": "contact"
+  },
+  {
+    "id": "faq_009",
+    "question": "How do I track my order?",
+    "answer": "Once your order ships, you will receive a confirmation email with a tracking number. You can track your order by logging into your TechPulse account and navigating to 'Order History,' or by entering your tracking number on our website's tracking page. You can also call our support line with your order number.",
+    "category": "shipping"
+  },
+  {
+    "id": "faq_010",
+    "question": "Does TechPulse offer international shipping?",
+    "answer": "Yes, TechPulse ships to over 40 countries worldwide. International shipping rates and delivery times vary by destination. Import duties and taxes are the responsibility of the customer. Standard international delivery takes 10-15 business days.",
+    "category": "shipping"
+  },
+  {
+    "id": "faq_011",
+    "question": "How do I update my billing information?",
+    "answer": "Log into your TechPulse account and go to 'Account Settings' then 'Payment Methods.' From there you can add, edit, or remove payment methods. For security reasons, you may be asked to verify your identity when making changes to billing information.",
+    "category": "account"
+  },
+  {
+    "id": "faq_012",
+    "question": "My Bluetooth headphones keep disconnecting. How can I fix this?",
+    "answer": "Try these steps: 1) Forget the device from your Bluetooth settings and re-pair. 2) Ensure your headphones are fully charged. 3) Keep the headphones within 30 feet of the connected device. 4) Update the firmware through the TechPulse Companion app. 5) Check that no other Bluetooth device is interfering.",
+    "category": "troubleshooting"
+  },
+  {
+    "id": "faq_013",
+    "question": "Can I cancel or modify an order after placing it?",
+    "answer": "You can cancel or modify your order within 1 hour of placing it by going to 'Order History' in your account. After 1 hour, the order may already be in processing and cannot be modified. If the order has shipped, you will need to wait for delivery and then initiate a return.",
+    "category": "orders"
+  },
+  {
+    "id": "faq_014",
+    "question": "Does TechPulse offer price matching?",
+    "answer": "Yes, TechPulse offers price matching against major authorized retailers. The item must be identical (same model, color, and condition), currently in stock, and sold by an authorized dealer. Price matching is available within 14 days of your purchase. Contact our support team with a link to the lower price.",
+    "category": "pricing"
+  },
+  {
+    "id": "faq_015",
+    "question": "How do I schedule a repair or tech support appointment?",
+    "answer": "You can schedule an appointment through our website by visiting the 'Support' section and clicking 'Book an Appointment.' Select the service type, choose your preferred date and time, and provide a brief description of the issue. You can also call our support line to schedule an appointment over the phone.",
+    "category": "appointments"
+  },
+  {
+    "id": "faq_016",
+    "question": "What is TechPulse's privacy policy regarding customer data?",
+    "answer": "TechPulse is committed to protecting your privacy. We collect only the information necessary to process orders and improve your experience. We never sell your personal data to third parties. You can review our full privacy policy on our website or request a copy by contacting support.",
+    "category": "privacy"
+  },
+  {
+    "id": "faq_017",
+    "question": "How do I connect my TechPulse smart speaker to Wi-Fi?",
+    "answer": "Open the TechPulse Companion app on your smartphone. Go to 'Devices' and select 'Add New Device.' Follow the on-screen instructions to put your smart speaker into pairing mode. Select your Wi-Fi network and enter the password. The setup process takes about 2 minutes.",
+    "category": "troubleshooting"
+  },
+  {
+    "id": "faq_018",
+    "question": "Does TechPulse offer student or military discounts?",
+    "answer": "Yes, TechPulse offers a 15% discount for verified students and a 20% discount for active military and veterans. To claim your discount, verify your eligibility through our partner ID.me on our website. The discount applies to most products excluding sale items and bundles.",
+    "category": "pricing"
+  }
+]
