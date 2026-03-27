@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+*.pyo
+.env
+*.egg-info/
+dist/
+build/
+.eggs/
+venv/
+.venv/
+*.db
+chroma_data/
+.streamlit/
+*.log
+.pytest_cache/
+htmlcov/
+.coverage
