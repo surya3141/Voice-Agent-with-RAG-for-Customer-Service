@@ -1,0 +1,122 @@
+[
+  {
+    "appointment_id": "APT-001",
+    "customer_name": "John Doe",
+    "customer_email": "john.doe@example.com",
+    "customer_phone": "+1-555-0101",
+    "service_type": "device_repair",
+    "scheduled_date": "2026-04-01",
+    "scheduled_time": "10:00",
+    "duration_minutes": 60,
+    "status": "confirmed",
+    "notes": "Cracked screen on TechPulse Tablet 10\". Customer has extended warranty."
+  },
+  {
+    "appointment_id": "APT-002",
+    "customer_name": "Jane Smith",
+    "customer_email": "jane.smith@example.com",
+    "customer_phone": "+1-555-0102",
+    "service_type": "tech_support",
+    "scheduled_date": "2026-04-02",
+    "scheduled_time": "14:00",
+    "duration_minutes": 30,
+    "status": "confirmed",
+    "notes": "Help setting up new 4K monitor with laptop. Customer needs display configuration assistance."
+  },
+  {
+    "appointment_id": "APT-003",
+    "customer_name": "Robert Johnson",
+    "customer_email": "robert.j@example.com",
+    "customer_phone": "+1-555-0103",
+    "service_type": "product_demo",
+    "scheduled_date": "2026-04-03",
+    "scheduled_time": "11:00",
+    "duration_minutes": 45,
+    "status": "pending",
+    "notes": "Interested in TechPulse Smart Home Hub ecosystem. Wants to see full demo before purchasing."
+  },
+  {
+    "appointment_id": "APT-004",
+    "customer_name": "Emily Davis",
+    "customer_email": "emily.davis@example.com",
+    "customer_phone": "+1-555-0104",
+    "service_type": "consultation",
+    "scheduled_date": "2026-04-04",
+    "scheduled_time": "09:30",
+    "duration_minutes": 30,
+    "status": "confirmed",
+    "notes": "Looking for a complete home office setup. Budget around $1,500. Needs monitor, keyboard, and accessories."
+  },
+  {
+    "appointment_id": "APT-005",
+    "customer_name": "Michael Chen",
+    "customer_email": "m.chen@example.com",
+    "customer_phone": "+1-555-0105",
+    "service_type": "installation",
+    "scheduled_date": "2026-04-05",
+    "scheduled_time": "13:00",
+    "duration_minutes": 90,
+    "status": "confirmed",
+    "notes": "Full smart home installation including hub, smart plugs, and motion sensors. Two-story house."
+  },
+  {
+    "appointment_id": "APT-006",
+    "customer_name": "Sarah Williams",
+    "customer_email": "sarah.w@example.com",
+    "customer_phone": "+1-555-0106",
+    "service_type": "device_repair",
+    "scheduled_date": "2026-04-01",
+    "scheduled_time": "15:00",
+    "duration_minutes": 45,
+    "status": "cancelled",
+    "notes": "Wireless headphones not charging. Customer decided to use warranty replacement instead."
+  },
+  {
+    "appointment_id": "APT-007",
+    "customer_name": "David Martinez",
+    "customer_email": "david.m@example.com",
+    "customer_phone": "+1-555-0107",
+    "service_type": "tech_support",
+    "scheduled_date": "2026-04-06",
+    "scheduled_time": "10:30",
+    "duration_minutes": 30,
+    "status": "pending",
+    "notes": "Webcam firmware update failed. Device stuck in recovery mode. May need factory reset."
+  },
+  {
+    "appointment_id": "APT-008",
+    "customer_name": "Lisa Anderson",
+    "customer_email": "lisa.a@example.com",
+    "customer_phone": "+1-555-0108",
+    "service_type": "product_demo",
+    "scheduled_date": "2026-04-07",
+    "scheduled_time": "16:00",
+    "duration_minutes": 30,
+    "status": "confirmed",
+    "notes": "Wants demo of TechPulse Noise-Cancelling Earbuds vs Pro Wireless Headphones."
+  },
+  {
+    "appointment_id": "APT-009",
+    "customer_name": "Amanda Taylor",
+    "customer_email": "amanda.t@example.com",
+    "customer_phone": "+1-555-0110",
+    "service_type": "installation",
+    "scheduled_date": "2026-04-08",
+    "scheduled_time": "11:00",
+    "duration_minutes": 60,
+    "status": "confirmed",
+    "notes": "Network setup for smart home devices. Customer has existing Wi-Fi mesh system."
+  },
+  {
+    "appointment_id": "APT-010",
+    "customer_name": "Kevin Brown",
+    "customer_email": "kevin.b@example.com",
+    "customer_phone": "+1-555-0111",
+    "service_type": "consultation",
+    "scheduled_date": "2026-04-09",
+    "scheduled_time": "14:30",
+    "duration_minutes": 30,
+    "status": "pending",
+    "notes": "Looking for audio equipment recommendations for a small podcast studio setup."
+  }
+]
