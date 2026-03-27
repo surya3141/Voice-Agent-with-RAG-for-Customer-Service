@@ -1,13 +1,15 @@
 """Tests for the KnowledgeStore and RAGPipeline modules."""
 
 import os
+from pathlib import Path
+
 import pytest
 from unittest.mock import patch, MagicMock
 
 from src.rag.vector_store import KnowledgeStore, VectorStoreError
 from src.rag.pipeline import RAGPipeline
 
-PROJECT_ROOT = "/home/runner/work/Voice-Agent-with-RAG-for-Customer-Service/Voice-Agent-with-RAG-for-Customer-Service"
+PROJECT_ROOT = str(Path(__file__).resolve().parent.parent)
 FAQS_PATH = os.path.join(PROJECT_ROOT, "data", "faqs.json")
 
 
