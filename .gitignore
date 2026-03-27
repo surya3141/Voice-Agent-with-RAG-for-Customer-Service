@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environments
+venv/
+.venv/
+env/
+.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Environment variables
+.env
+*.env.local
+
+# Vector store / embeddings cache
+faiss_index/
+*.index
+*.pkl
+
+# Audio files (generated)
+*.wav
+*.mp3
+*.ogg
+*.m4a
+
+# Logs
+*.log
+logs/
+
+# OS
+.DS_Store
+Thumbs.db

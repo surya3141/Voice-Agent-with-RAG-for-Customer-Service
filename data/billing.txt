@@ -1,0 +1,24 @@
+BILLING AND PAYMENTS
+
+Invoice Enquiries
+If you have a question about a charge on your account, please log in and navigate to
+Billing > Invoice History. Each invoice lists itemised charges. If something looks
+incorrect, click "Dispute Charge" to raise a ticket.
+
+Refund Policy
+Refunds for returned items are processed within 5–7 business days after the warehouse
+receives and inspects the product. Refunds are returned to the original payment method.
+Gift card payments are refunded as store credit.
+
+Subscription Billing
+Our Premium Support subscription ($9.99/month) renews automatically on the same date
+each month. You can cancel at any time from Account > Subscriptions without penalty.
+Cancellation takes effect at the end of the current billing period.
+
+Late Payment Fees
+If your payment method fails, we retry after 3 days. A $5 late-payment fee applies
+after 10 days of non-payment. Accounts more than 30 days overdue are suspended.
+
+Tax Exemptions
+Non-profit organisations and government entities may apply for tax exemption.
+Email tax-exempt@example.com with your exemption certificate.
