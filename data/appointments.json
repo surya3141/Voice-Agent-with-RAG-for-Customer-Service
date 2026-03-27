@@ -1,0 +1,18 @@
+[
+  {
+    "question": "How do I schedule a service appointment?",
+    "answer": "You can schedule a service appointment online at appointments.example.com, by calling 1-800-555-0100, or by asking this voice agent. Available slots are Monday through Saturday, 9 AM to 6 PM. Same-day appointments may be available depending on technician availability."
+  },
+  {
+    "question": "How do I cancel or reschedule an appointment?",
+    "answer": "To cancel or reschedule, please call 1-800-555-0100 or visit appointments.example.com at least 24 hours before your scheduled appointment to avoid a cancellation fee."
+  },
+  {
+    "question": "What types of service appointments do you offer?",
+    "answer": "We offer installation appointments, repair appointments, product demonstrations, and annual maintenance visits. Each appointment typically takes 1–2 hours."
+  },
+  {
+    "question": "Is there a fee for a service appointment?",
+    "answer": "The first appointment within the warranty period is free of charge. Out-of-warranty visits are billed at $75 per hour with a minimum 1-hour charge. Parts are billed separately."
+  }
+]

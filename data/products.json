@@ -1,0 +1,18 @@
+[
+  {
+    "question": "Tell me about the ProMax 3000 vacuum cleaner.",
+    "answer": "The ProMax 3000 is our top-of-the-line cordless vacuum. It features a 60-minute battery life, HEPA filtration, and a powerful 25 kPa suction motor. It retails for $349 and comes in Black and Silver."
+  },
+  {
+    "question": "What smart home devices do you carry?",
+    "answer": "Our smart home range includes smart plugs ($29), smart bulbs ($15 each), a Wi-Fi thermostat ($129), a video doorbell ($199), and a home security hub ($249). All devices work with Amazon Alexa and Google Home."
+  },
+  {
+    "question": "Do you have any current promotions or discounts?",
+    "answer": "Yes! This month we have a 20% discount on all smart home devices with code SMARTHOME20, and free shipping on orders over $50. Loyalty members receive an extra 5% off automatically."
+  },
+  {
+    "question": "Is the ProMax 3000 compatible with pet hair?",
+    "answer": "Yes, the ProMax 3000 includes a specialized pet-hair attachment that removes embedded fur from carpets and upholstery. It has been certified by the Allergy Standards Association."
+  }
+]

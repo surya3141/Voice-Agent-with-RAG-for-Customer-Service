@@ -1,0 +1,22 @@
+[
+  {
+    "question": "What is the status of order #ORD-1001?",
+    "answer": "Order #ORD-1001 was placed on March 18, 2026 and is currently in transit. Estimated delivery is March 28, 2026. The tracking number is 1Z999AA10123456784."
+  },
+  {
+    "question": "What is the status of order #ORD-1002?",
+    "answer": "Order #ORD-1002 was placed on March 20, 2026 and is being processed at our warehouse. It is expected to ship within 1 business day."
+  },
+  {
+    "question": "What is the status of order #ORD-1003?",
+    "answer": "Order #ORD-1003 was delivered on March 22, 2026 at 2:34 PM and was signed for by the recipient. If you have not received it, please check with your neighbors or building management."
+  },
+  {
+    "question": "My order has not arrived. What should I do?",
+    "answer": "If your estimated delivery date has passed, first check the tracking information in your account. If the tracking shows delivered but you did not receive the package, please file a missing parcel claim within 7 days. We will investigate and arrange a replacement or refund."
+  },
+  {
+    "question": "Can I change the delivery address for my order?",
+    "answer": "Delivery addresses can only be changed before the order has been shipped. Please contact customer service immediately. Once shipped, we are unable to reroute packages."
+  }
+]
